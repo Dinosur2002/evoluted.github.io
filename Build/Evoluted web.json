@@ -1,0 +1,12 @@
+{
+"companyName": "Dinosur2002",
+"productName": "Evolution",
+"dataUrl": "Evoluted web.data.unityweb",
+"wasmCodeUrl": "Evoluted web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Evoluted web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 402653184,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1E1F1E"
+}
